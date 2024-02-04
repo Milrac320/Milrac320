@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milrac320)](https://github.com/milrac320/github-readme-stats)
+
 
 ### Linguagens e Ferramentas
 
