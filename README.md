@@ -18,7 +18,7 @@
   <a href="mailto:caduagarcia@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/carlos-garcia-169a17154/" target="_blank">
+  <a href="linkedin.com/in/carlos-garcia-programador" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
