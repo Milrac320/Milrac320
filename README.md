@@ -1,27 +1,47 @@
 ### About me
-Hello! My name is Carlos, I'm a technology enthusiast who likes to solve complex problems through programming. My interest in software development mainly focuses on Python, automation and artificial intelligence.
 
-Main Areas of Interest:
+Hi! I'm Carlos Garcia — product engineer who likes turning complex problems into products that feel simple. I build end-to-end software with a focus on technical quality, thoughtful UX, and sustainable architecture.
 
-**Python**: I'm fascinated by the versatility and simplicity of the Python language. I'm constantly exploring new ways to harness its power to create efficient and elegant solutions.
+I enjoy the full cycle: from the SQL schema to the last design system token. I believe details matter — and that well-written code + honest UX convert better than any growth hack.
 
-**Automation**: Automation is a passion of mine. I love simplifying repetitive and tedious tasks by creating scripts and automated tools that increase productivity.
+**What I've been building:**
 
-**Artificial Intelligence**: I am deeply involved in the field of artificial intelligence, especially in machine learning and natural language processing projects. I love exploring how algorithms can learn and make intelligent decisions.
+- **Modern frontend** — React + TypeScript strict + Tailwind, with custom design systems and strong attention to a11y/SEO.
+- **Serverless backend** — Postgres with RLS, Edge Functions, scheduled jobs, and secrets management. Versioned migrations and well-tested SQL triggers.
+- **Product & monetization** — Subscription flows (embedded checkout, webhooks, customer portal), plan-based feature gating, role-based access.
+- **Performance** — LRU caches, code-splitting, aggregated RPCs, boot optimization, lazy data loading.
 
-I'm always looking for interesting challenges and opportunities to learn and grow as a developer. Additionally, I am open to collaborations and new connections in the software development community.
+**Parallel interests:**
 
-Feel free to explore my projects and get in touch. Let's build something amazing together!
+- **AI-augmented development** — I use Claude Code daily with versioned rules, structured ADRs, and disciplined workflows.
+- **Python** — automation scripts, internal tools, occasional data work.
+- **Advanced Postgres** — RLS policies, triggers, materialized views, query tuning with EXPLAIN.
+
+Always open to talking about product architecture, design systems, or any intersection of code and business. Let's build something honest and well-crafted together.
 
 ### Languages and Tools
+
 <div style="display: inline_block"><br>
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Vite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Supabase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">
+  <img align="center" alt="Deno" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg">
+  <img align="center" alt="Stripe" height="30" width="40" src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg">
+  <img align="center" alt="Vercel" height="30" width="40" src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
 ### Connect with me
+
 <div> 
   <a href="https://instagram.com/carlosgarcia.programacao" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
@@ -35,6 +55,7 @@ Feel free to explore my projects and get in touch. Let's build something amazing
 </div>
 
 ### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milrac320&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milrac320&layout=compact&theme=dark)
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milrac320&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milrac320&layout=compact&theme=dark&langs_count=8&hide=html,css)
